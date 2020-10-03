@@ -1,0 +1,3 @@
+*.o
+poem_sorter
+poem_sorter_debug
